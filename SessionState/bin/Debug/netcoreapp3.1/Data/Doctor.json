@@ -1,0 +1,17 @@
+[ // syntax
+  // second bracket er bhitore purata ekta element (course)
+  {
+    "ID ": "32990c05-1d1f-43a0-54kbkb-23njn0mkh",
+    "Address": "Dhaka Hospital",
+    "DoctorInfo": "Dr. ABC",
+    "FieldOfExpertise": "ENT",
+    "ConsultingHours": 3.0
+  },
+  {
+    "ID ": "32990c05-1d1f-43a0-45mlk-12kjh",
+    "Address": "Gazipur Hospital",
+    "DoctorInfo": "Dr. XYZ",
+    "FieldOfExpertise": "Medicine",
+    "ConsultingHours": 5.0
+  }
+]

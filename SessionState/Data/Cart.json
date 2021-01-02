@@ -1,0 +1,13 @@
+[ // syntax
+  // second bracket er bhitore purata ekta element (course)
+  {
+    "ID ": "32990c05-1d1f-43a0-54kbkb-23njn0mkh",
+    "ProductName": "Shoe",
+    "ProductQuantity": 3
+  },
+  {
+    "ID ": "32990c05-1d1f-43a0-45mlk-12kjh",
+    "ProductName": "Bags",
+    "ProductQuantity": 4
+  }
+]
