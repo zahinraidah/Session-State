@@ -1,0 +1,47 @@
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.exe
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.deps.json
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.runtimeconfig.json
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.runtimeconfig.dev.json
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.dll
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.pdb
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.csprojAssemblyReference.cache
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.AssemblyInfoInputs.cache
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.AssemblyInfo.cs
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.csproj.CoreCompileInputs.cache
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.MvcApplicationPartsAssemblyInfo.cache
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\SessionManagement.StaticWebAssets.Manifest.cache
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\SessionManagement.StaticWebAssets.xml
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\SessionManagement.styles.css
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.RazorTargetAssemblyInfo.cache
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.dll
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.pdb
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.genruntimeconfig.cache
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.csproj.CopyComplete
+G:\Study\6th Semester\SWE 4602 Software Design and Architectures Lab\SessionManagement\SessionManagement\bin\Debug\netcoreapp3.1\Data\cart.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\Data\cart.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.exe
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.deps.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.runtimeconfig.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.runtimeconfig.dev.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.dll
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\SessionManagement.pdb
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.csprojAssemblyReference.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.AssemblyInfoInputs.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.AssemblyInfo.cs
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.csproj.CoreCompileInputs.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.RazorTargetAssemblyInfo.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.csproj.CopyComplete
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\SessionManagement.StaticWebAssets.Manifest.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\SessionManagement.StaticWebAssets.xml
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.dll
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.pdb
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\SessionManagement.genruntimeconfig.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\cart.json

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bU16vKXvKz4dbSJ7IJ/cyD2YBpErR7qXNGO+zq8pCRrzJ90aYyuysYvaw7Q7N5jxB8/bBmbcmHZj8XYihIZHtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USRE\\Downloads\\SessionManagement\\CartManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USRE\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

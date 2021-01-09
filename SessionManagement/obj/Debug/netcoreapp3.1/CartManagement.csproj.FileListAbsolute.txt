@@ -1,0 +1,45 @@
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\cart.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.exe
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.deps.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.runtimeconfig.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.runtimeconfig.dev.json
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.dll
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.pdb
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.AssemblyInfoInputs.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.AssemblyInfo.cs
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.csproj.CoreCompileInputs.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.RazorTargetAssemblyInfo.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.csproj.CopyComplete
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\CartManagement.StaticWebAssets.Manifest.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\CartManagement.StaticWebAssets.xml
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.dll
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.pdb
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.genruntimeconfig.cache
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\cart.json
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.exe
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.deps.json
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.runtimeconfig.json
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.runtimeconfig.dev.json
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.dll
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\CartManagement.pdb
+C:\Users\USRE\Downloads\SessionManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.csprojAssemblyReference.cache
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.AssemblyInfoInputs.cache
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.AssemblyInfo.cs
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.csproj.CoreCompileInputs.cache
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\CartManagement.StaticWebAssets.Manifest.cache
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\staticwebassets\CartManagement.StaticWebAssets.xml
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\CartManagement.styles.css
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.RazorTargetAssemblyInfo.cache
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.csproj.CopyComplete
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.dll
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.pdb
+C:\Users\USRE\Downloads\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.genruntimeconfig.cache
